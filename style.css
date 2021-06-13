@@ -169,7 +169,7 @@ img{
     position: relative;
     background-color: Var(--first-color);
     overflow: hidden;
-    
+     height: 100vh;
 }
 .home_container{
     height: 100vh;
